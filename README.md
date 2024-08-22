@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ThanhVu080803" target="blank">
-TheAnh</a></h1>
+Thanh Vu</a></h1>
 <h5 align="center">A third-year Information Technology student, with a goal to become a Frontend Developer.</h5>
 
 # 💫About Me :
