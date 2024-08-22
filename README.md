@@ -1,8 +1,12 @@
 # 💫About Me :
 🌱 I'm currently studying at Ho Chi Minh Open University
+
 👯 I’m looking to collaborate on GitHub
+
 🤔 I’m looking for help with code!
+
 💬 Ask me about HTML, CSS, JavaScript, ReactJs & Django, Spring Framework
+
 📫 How to reach me thanhvu080803@gmail.com
 
 ## 🌐Socials
