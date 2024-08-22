@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/theanh204" target="blank">
+TheAnh</a></h1>
+<h5 align="center">A third-year Computer Science student, with a goal to become a Software Engineer.</h5>
+
 # 💫About Me :
 🌱 I'm currently studying at Ho Chi Minh Open University
 
